@@ -5,7 +5,7 @@ date: "2024-01-09"
 output: pdf_document
 ---
 
-## This is a Markdown file.
+## This is a R Markdown file. 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
